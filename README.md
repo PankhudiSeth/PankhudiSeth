@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PankhudiSeth
 - 👀 I’m interested in all involving Data Analysis and science!
-- 🌱 I’m currently learning Graphs
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach @pankhudigupta93@gmail.com
 
 <!---
